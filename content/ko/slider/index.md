@@ -86,7 +86,7 @@ sections:
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: avatar.jpg
             filters:
               brightness: 0.4
           position: center
@@ -98,7 +98,7 @@ sections:
         align: center
         background:
           image:
-            filename: recruitment.jpg
+            filename: avatar.jpg
             filters:
               brightness: 0.4
           position: center
