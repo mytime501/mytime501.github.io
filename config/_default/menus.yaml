@@ -13,7 +13,6 @@ main:
   - name: Protflio
     url: contact/
     weight: 30
-
   - name: Contacts
-    url: contacts/
-    weight: 30
+    url: contact/
+    weight: 40
