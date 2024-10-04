@@ -3,6 +3,9 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+ko:
+  languageCode: ko
+  contentDir: content/ko
 en:
   languageCode: en-us
   contentDir: content/en
@@ -21,6 +24,4 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
-ko:
-  languageCode: ko
-  contentDir: content/ko
+

@@ -11,6 +11,7 @@ sections:
       text: |-
         <br> <span style="font-size:95%">관련 프로젝트에 관심 있으시면 아래의 메일 주소로 연락부탁드립니다.</span> <br>
       email: mytime@jbnu.ac.kr
+      phone: +82-010-0000-0000
       address:
         street: 전북대학교 공과대학 7호관
         city: 전주시

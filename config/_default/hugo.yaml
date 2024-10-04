@@ -1,5 +1,5 @@
-title: Hugo Portfolio Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: SeungJunLee Portfolio # Website name
+baseURL: 'https://seungjunportfolio.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -19,7 +19,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
