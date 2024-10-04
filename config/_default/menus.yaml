@@ -10,8 +10,8 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: Protflio
-    url: contact/
+  - name: Slider
+    url: slider/
     weight: 30
   - name: Protflio
     url: contact/
