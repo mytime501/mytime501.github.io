@@ -34,14 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
     #align: r
-    #show_logo: false
+    
+    show_search: true
+    show_logo: true
     show_language: true
     show_day_night: true
-    #highlight_active_link: false
-    fixed_to_top: true
-    show_search: true
     show_theme_chooser: true
 
     logo:
