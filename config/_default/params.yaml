@@ -15,11 +15,12 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
     org_name: '전북대'
     description: '전북대 이승준 - 본인의 전문성과 포트폴리오를 소개하는 페이지입니다.'
     twitter: 'GetResearchDev'
+    image: 'dog.jpg'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
