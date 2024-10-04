@@ -1,32 +1,8 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: text
-
-# This file represents a page section.
 headless: true
+weight: 40
 
-# Order that this section appears on the page.
-weight: 50
-
-title: Get in touch
-subtitle:
-
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
-design:
-  columns: '1'
+title: 소개
+content: 전북대학교 컴퓨터공학부 재학생 이승준입니다.
 ---
-
-전북대학교 컴퓨터공학부 재학생 이승준입니다.
