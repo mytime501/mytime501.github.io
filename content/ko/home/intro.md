@@ -23,3 +23,4 @@ author: admin
 {style="font-size: 1.1rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 본 페이지는 포트폴리오 소개를 위해 제작된 홈페이지입니다!
+전북대 이승준 - 본인의 전문성과 포트폴리오를 소개하는 페이지입니다.

@@ -67,5 +67,6 @@ social:
 ---
 
 전북대학교 컴퓨터공학부 재학생 이승준입니다.
+전북대 이승준 - 본인의 전문성과 포트폴리오를 소개하는 페이지입니다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
