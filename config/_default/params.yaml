@@ -41,9 +41,6 @@ header:
     show_day_night: true
     show_theme_chooser: true
 
-    logo:
-      text: "Your Name"
-
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -98,7 +95,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
