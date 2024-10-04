@@ -20,7 +20,7 @@ marketing:
     org_name: '전북대'
     description: '전북대 이승준 - 본인의 전문성과 포트폴리오를 소개하는 페이지입니다.'
     twitter: 'GetResearchDev'
-    image: icon.png
+    image: '/icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -29,6 +29,8 @@ marketing:
   verification:
     google: ''
     baidu: ''
+  open_graph:
+    image: '/icon.png'
 
 # Site header
 
