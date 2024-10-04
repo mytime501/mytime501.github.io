@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: Protflio
-    url: about/contact/
+    url: contact/
     weight: 30
