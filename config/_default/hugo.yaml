@@ -30,7 +30,6 @@ removePathAccents: true
 
 params:
   show_search: true # 검색 기능 활성화
-  
   enableSearch: true
 
 ############################
