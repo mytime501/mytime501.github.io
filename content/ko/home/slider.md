@@ -15,7 +15,6 @@ content:
         filters:
           brightness: 0.5
       position: center
-      color: '#333'
   - title: 랜덤
     content: '무작위 키워드 및 문장 생성'
     align: center
@@ -24,8 +23,7 @@ content:
         filename: "keywords.jpg"
         filters:
           brightness: 0.7
-      position: right
-      color: '#666'
+      position: center
   - title: 계산기
     content: '각종 계산을 위한 시스템'
     align: center
@@ -35,7 +33,6 @@ content:
         filters:
           brightness: 0.7
       position: center
-      color: '#555'
   - title: 날씨 측정
     content: '지역별 기온과 날씨를 측정'
     align: center
@@ -45,7 +42,6 @@ content:
         filters:
           brightness: 0.5
       position: center
-      color: '#333'
   - title: 에누링
     content: '중고거래를 위한 플랫폼'
     align: center
@@ -54,8 +50,7 @@ content:
         filename: "enuring.jpg"
         filters:
           brightness: 0.7
-      position: right
-      color: '#666'
+      position: center
   - title: POPDOG
     content: '밈을 이용한 게임'
     align: center
@@ -65,7 +60,6 @@ content:
         filters:
           brightness: 0.7
       position: center
-      color: '#555'
 design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
