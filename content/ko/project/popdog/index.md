@@ -1,8 +1,7 @@
 ---
 title: Popdog games
-summary: Write about your project here...
+summary: 밈을 이용한 게임
 tags:
   - Unity
-date: 2022-01-01
 external_link: http://github.com
 ---

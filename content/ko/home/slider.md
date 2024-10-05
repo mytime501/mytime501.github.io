@@ -17,7 +17,7 @@ content:
       position: center
       color: '#333'
 
-  - title: 랜덤
+  - title: 랜덤 생성
     content: '무작위 키워드 및 문장 생성'
     align: center
     background:

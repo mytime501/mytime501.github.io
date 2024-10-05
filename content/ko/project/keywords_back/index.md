@@ -1,8 +1,7 @@
 ---
-title: Random Create Backend
-summary: Write about your project here...
+title: 랜덤 생성 백엔드
+summary: 무작위 키워드 및 문장 생성
 tags:
   - Web
-date: 2022-01-01
 external_link: https://github.com/mytime501/randombackend
 ---
