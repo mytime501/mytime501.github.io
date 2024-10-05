@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-widget: about.avatar
+widget: slider
 
 headless: true
 weight: 20
