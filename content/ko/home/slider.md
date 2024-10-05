@@ -55,6 +55,5 @@ design:
   loop: true
   # Duration of transition between slides (in ms)
   interval: 3000
-  margin_bottom: '40px'
 ---
 
