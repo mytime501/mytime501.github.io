@@ -97,15 +97,13 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+      keyWords:
+        query: "이승준"
+        result: "전북대학교"
   map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-
-# 추가된 검색 키워드
-search_keywords:
-  - query: "이승준"
-    result: "전북대학교"
     
 
 extensions:
