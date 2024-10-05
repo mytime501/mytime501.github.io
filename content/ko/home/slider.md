@@ -5,6 +5,7 @@ weight: 20
 type: landing
 
 content:
+  slides:
   - title: WHO
     content: '미라클모닝 프로젝트'
     align: center
