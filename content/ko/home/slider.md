@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        filename: who.jpg
+        filename: ../../assets/media/who.jpg
         filters:
           brightness: 0.5
       position: center
@@ -21,7 +21,7 @@ content:
     align: center
     background:
       image:
-        filename: keywords.jpg
+        filename: ../../assets/media/keywords.jpg
         filters:
           brightness: 0.7
       position: right
@@ -31,7 +31,7 @@ content:
     align: center
     background:
       image:
-        filename: calulator.jpg
+        filename: ../../assets/media/calulator.jpg
         filters:
           brightness: 0.7
       position: center
@@ -41,7 +41,7 @@ content:
     align: center
     background:
       image:
-        filename: weather.jpg
+        filename: ../../assets/media/weather.jpg
         filters:
           brightness: 0.5
       position: center
@@ -51,7 +51,7 @@ content:
     align: center
     background:
       image:
-        filename: enuring.jpg
+        filename: ../../assets/media/enuring.jpg
         filters:
           brightness: 0.7
       position: right
@@ -61,19 +61,18 @@ content:
     align: center
     background:
       image:
-        filename: dog.jpg
+        filename: ../../assets/media/dog.jpg
         filters:
           brightness: 0.7
       position: center
       color: '#555'
 design:
-  # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '500px'
-  slide_width: '50%'
-  is_fullscreen: false
-  # Automatically transition through slides?
-  loop: true
-  # Duration of transition between slides (in ms)
-  interval: 3000
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
 ---
 
