@@ -97,10 +97,12 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+  search_keywords: ["전북대학교", "이승준"]
   map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+    
 
 extensions:
   cms:
