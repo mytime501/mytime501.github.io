@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-
+widget: slider
 weight: 20
 type: landing
 
@@ -21,7 +21,7 @@ content:
     align: center
     background:
       image:
-        filename: keywords.jpg
+        filename: who.jpg
         filters:
           brightness: 0.7
       position: right
@@ -31,7 +31,7 @@ content:
     align: center
     background:
       image:
-        filename: calculator.jpg # 파일명 수정
+        filename: who.jpg # 파일명 수정
         filters:
           brightness: 0.7
       position: center
@@ -41,7 +41,7 @@ content:
     align: center
     background:
       image:
-        filename: weather.jpg  # 상대 경로 추가
+        filename: who.jpg  # 상대 경로 추가
         filters:
           brightness: 0.5
       position: center
@@ -51,7 +51,7 @@ content:
     align: center
     background:
       image:
-        filename: enuring.jpg
+        filename: who.jpg
         filters:
           brightness: 0.7
       position: right
@@ -61,7 +61,7 @@ content:
     align: center
     background:
       image:
-        filename: dog.jpg
+        filename: who.jpg
         filters:
           brightness: 0.7
       position: center
