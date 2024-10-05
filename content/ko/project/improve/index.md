@@ -1,6 +1,7 @@
 ---
 title: 군용관제체계 개선 프로젝트
 summary: 관제체계 개선
+date: 2023-04-16
 tags:
   - Too
 url: /ko/improve/index
