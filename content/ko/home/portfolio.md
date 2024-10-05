@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Web
+      tag: Web
+    - name: C#
+      tag: C#
+    - name: Unity
+      tag: Unity
 
 design:
   columns: '1'
