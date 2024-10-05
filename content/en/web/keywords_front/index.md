@@ -1,32 +1,32 @@
 ---
-title: 키워드 및 스토리 랜덤 추출 프론트엔드 프로젝트
+title: Keyword and Story Randomized Front-End Project
 date: 2024-07-01
 ---
 
 <div class="text-justify">
-프로젝트 개요
+Project Overview
 </div>
 
-React를 이용해 백엔드에서 제공하는 랜덤 데이터를 사용자에게 시각적으로 제공하는 웹 애플리케이션의 프론트엔드를 구현하였습니다. 백엔드에서 랜덤으로 추출된 데이터를 API를 통해 받아와, 프론트엔드에서 사용자가 볼 수 있도록 렌더링합니다.
+React is used to implement the front end of a web application that visually provides users with random data provided at the back end. It receives randomly extracted data from the back end through API and renders it for users to see at the front end.
 
 
-주요 업무
+a major task
 
-- 프론트엔드 개발: React로 사용자 인터페이스를 설계하고, 랜덤 추출된 데이터를 시각적으로 표현하였습니다.
-- API 연동: 백엔드에서 제공하는 랜덤 키워드 및 스토리 데이터를 API를 통해 가져와, 프론트엔드에서 처리 및 렌더링하였습니다.
-- 상태 관리: React의 상태 관리 기능을 활용하여 사용자 인터페이스의 동작을 동적으로 처리하였습니다.
-- UI/UX 개선: 사용자 경험을 고려한 인터페이스 디자인 및 데이터의 시각적 표현을 최적화하였습니다.
+- Front-end development: Designed a user interface with React, and visually represented randomly extracted data.
+- API Interworking: Random keywords and story data provided by the backend were imported through the API, processed and rendered by the front end.
+- Health Management: Utilized React's health management capabilities to dynamically handle user interface behavior.
+- UI/UX Improvement: Optimized interface design and visual representation of data considering user experience.
 
 
-사용 기술
+technology of use
 
-- 프레임워크: React
+- Framework: React
 - 언어: JavaScript, HTML, CSS
-- 상태 관리: React의 상태 관리 도구 활용
+- Health Management: Leveraging React's Health Management Tools
 
 
-성과
+Performance
 
-- 사용자 인터페이스가 직관적이며, 백엔드에서 제공되는 랜덤 데이터를 효과적으로 처리하는 웹 애플리케이션을 완성하였습니다.
-- React 컴포넌트 기반 설계를 통해 확장성과 유지 보수성을 확보하였습니다.
-- API 연동을 통한 실시간 데이터 처리를 원활하게 구현하였습니다.
+- We have completed a web application that has an intuitive user interface and effectively handles random data provided at the back end.
+- React component-based design ensures scalability and maintenance.
+- Real-time data processing through API linkage was implemented smoothly.

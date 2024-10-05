@@ -1,32 +1,32 @@
 ---
-title: 키워드 및 스토리 랜덤 추출 백엔드 프로젝트
+title: Keyword and Story Randomized Backend Project
 date: 2024-07-01
 ---
 
 <div class="text-justify">
-프로젝트 개요
+Project Overview
 </div>
 
-Node.js 기반으로 키워드와 스토리를 랜덤 추출하는 백엔드 서비스를 개발하였습니다. keyworddata와 storydata 폴더에 있는 데이터를 API로 제공하며, 사용자가 요청에 따라 랜덤으로 추출된 데이터를 받을 수 있습니다.
+Based on Node.js, we developed a back-end service that randomly extracts keywords and stories. The data in the keyword data and storage data folders are provided through APIs, and users can receive randomly extracted data on request.
 
 
-주요 업무
+A major task
 
-- 백엔드 개발: Node.js로 API 서버를 구축하여 키워드 및 스토리 데이터를 랜덤으로 추출할 수 있도록 하였습니다.
-- 데이터 관리: keyworddata와 storydata 폴더의 데이터를 사용하여 필요한 요청에 따라 데이터를 추출하도록 구현하였습니다.
-- API 구현: RESTful API 엔드포인트를 설계하고, 사용자 요구에 맞게 다양한 랜덤 추출 기능을 제공하였습니다.
-- 패키지 관리: package.json과 npm을 사용하여 필요한 패키지를 관리하고, 프로젝트의 모듈을 체계적으로 설치하고 구성하였습니다.
-
-
-사용 기술
-
-- 언어: JavaScript (Node.js)
-- 데이터 관리: keyworddata, storydata 폴더 내의 데이터셋 사용
-- 패키지 관리: npm
+- Backend Development: We built an API server with Node.js so that keyword and story data can be extracted at random.
+- Data Management: Data from keyword data and storage data folders are used to extract data as needed.
+- API Implementation: We designed RESTful API endpoints and provided various random extraction functions to meet user needs.
+- Package Management: We used package.json and npm to manage the required packages, and systematically installed and configured the modules of the project.
 
 
-성과
+Technology of use
 
-- 두 가지 데이터셋(키워드, 스토리)을 유연하게 처리할 수 있는 시스템을 구축하였습니다.
-- Node.js의 비동기 처리 성능을 활용하여 높은 성능과 응답 속도를 달성하였습니다.
-- API 설계를 통해 사용자가 다양한 요청을 통해 데이터를 효율적으로 추출할 수 있게 하였습니다.
+- Language: JavaScript (Node.js)
+- Data management: using datasets within keyworddata, storagedata folders
+- Package Management: npm
+
+
+Performance
+
+- We have built a system that can flexibly handle two datasets (keywords, stories).
+- Leveraging the asynchronous processing performance of Node.js, we achieved high performance and response speed.
+- API design allows users to efficiently extract data through various requests.

@@ -1,33 +1,33 @@
 ---
-title: Who 미라클모닝 프로젝트
+title: Who Miracle Morning Project
 date: 2024-03-31
 ---
 
 <div class="text-justify">
-프로젝트 개요
+Project Overview
 </div>
 
-MongoDB를 기반으로 하는 Who 미라클모닝 애플리케이션은 사용자들이 자신의 미라클모닝 루틴을 관리하고 최적화할 수 있도록 도와주는 웹 애플리케이션입니다. 이 애플리케이션은 Flask 프레임워크로 구현되어 있으며, 직관적인 사용자 인터페이스를 제공합니다.
+Based on MongoDB, the Who Miracle Morning application is a web application that helps users manage and optimize their Miracle Morning routines. The application is implemented in the Flask framework, providing an intuitive user interface.
 
 
-주요 업무
+A major task
 
-- 백엔드 개발: Flask를 사용하여 애플리케이션의 서버를 구축하고, 사용자의 루틴 데이터를 처리하는 API를 설계하였습니다.
-- 데이터베이스 관리: MongoDB를 사용하여 루틴 데이터를 효율적으로 저장하고 조회할 수 있도록 데이터 모델을 설정하였습니다.
-- 기능 구현: 사용자가 자신의 미라클모닝 루틴을 추가, 수정, 삭제할 수 있는 기능을 구현하여 데이터 관리를 용이하게 하였습니다.
-- 배포 및 운영: 애플리케이션의 배포 및 운영을 관리하여 사용자들이 손쉽게 접근할 수 있도록 하였습니다.
-
-
-사용 기술
-
-- 프레임워크: Flask
-- 언어: Python
-- 데이터베이스: MongoDB
-- 패키지 관리: Pipenv, Poetry
+- Backend Development: We used Flask to build servers for applications, and designed APIs to handle users' routine data.
+- Database Management: We have set up a data model to efficiently store and query routine data using MongoDB.
+- Implementation of functions: It facilitates data management by implementing the ability to add, modify, and delete users' Miracle Morning routines.
+- Deployment and Operations: Application distribution and operations were managed to make them accessible to users.
 
 
-성과
+Technology of use
 
-- 사용자 경험을 고려한 직관적인 인터페이스를 제공하여 높은 사용자 만족도를 이끌어냈습니다.
-- MongoDB를 효과적으로 활용하여 데이터 저장과 관리의 효율성을 향상시켰습니다.
-다양한 사용자 요구에 맞춰 기능을 지속적으로 개선하고 업데이트하였습니다.
+- Framework: Flask
+- Language: Python
+- Database: MongoDB
+- Package Management: Pipenv, Poetry
+
+
+Performance
+
+- It has provided an intuitive interface that considers user experience, resulting in high user satisfaction.
+- We have utilized MongoDB effectively to improve the efficiency of data storage and management.
+We have continuously improved and updated our features to meet various user needs.
