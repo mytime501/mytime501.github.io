@@ -97,6 +97,10 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+    results:
+      - query: '이승준'    # 검색할 이름
+        title: '전북대학교' # 검색 결과로 나타낼 제목
+        url: 'https://www.jbnu.ac.kr/kor/'            # 제목을 클릭했을 때 이동할 URL (메인 페이지 등)
   map:
     provider: 'mapnik'
     api_key: ''
