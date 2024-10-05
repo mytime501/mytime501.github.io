@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../assets/media/who.jpg
+        filename: "../../assets/media/who.jpg"
         filters:
           brightness: 0.5
       position: center
@@ -21,7 +21,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../assets/media/keywords.jpg
+        filename: "../../assets/media/keywords.jpg"
         filters:
           brightness: 0.7
       position: right
@@ -31,7 +31,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../assets/media/calulator.jpg
+        filename: "calulator.jpg"
         filters:
           brightness: 0.7
       position: center
@@ -41,7 +41,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../assets/media/weather.jpg
+        filename: weather.jpg
         filters:
           brightness: 0.5
       position: center
@@ -69,7 +69,8 @@ content:
 design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
-      is_fullscreen: true
+      slide_width: '100px'
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
