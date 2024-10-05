@@ -1,6 +1,6 @@
 ---
 title: Who
-summary: 미라클모닝 프로젝트
+summary: Miracle Morning Project
 tags:
   - Web
 external_link: https://github.com/mytime501/flask
