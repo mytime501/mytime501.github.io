@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: images\who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.5
       position: center
@@ -22,7 +22,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: images\who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
       position: right
@@ -33,7 +33,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: images\who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
       position: center
@@ -44,7 +44,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: images\who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.5
       position: center
@@ -55,7 +55,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: images\who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
       position: right
@@ -66,7 +66,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: images\who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
       position: center
