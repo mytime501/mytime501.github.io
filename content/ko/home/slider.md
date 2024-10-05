@@ -3,7 +3,6 @@
 widget: slider
 weight: 20
 
-
 content:
   slides:
   - title: WHO
@@ -31,7 +30,7 @@ content:
     align: center
     background:
       image:
-        filename: "calulator.jpg"
+        filename: "../../assets/media/calculator.jpg"  # 파일명 수정
         filters:
           brightness: 0.7
       position: center
@@ -41,7 +40,7 @@ content:
     align: center
     background:
       image:
-        filename: weather.jpg
+        filename: "../../assets/media/weather.jpg"  # 상대 경로 추가
         filters:
           brightness: 0.5
       position: center
@@ -51,7 +50,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../assets/media/enuring.jpg
+        filename: "../../assets/media/enuring.jpg"
         filters:
           brightness: 0.7
       position: right
@@ -61,7 +60,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../assets/media/dog.jpg
+        filename: "../../assets/media/dog.jpg"
         filters:
           brightness: 0.7
       position: center
@@ -69,11 +68,10 @@ content:
 design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
-      slide_width: '100px'
+      slide_width: '100%'  # 슬라이드 너비를 100%로 수정
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
 ---
-
