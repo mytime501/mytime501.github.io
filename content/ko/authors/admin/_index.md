@@ -51,6 +51,15 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/
+  - icon: google
+    icon_pack: fab
+    link: https://www.google.com/
+  - icon: phone
+    icon_pack: fas
+    link: tel:+821000000000  # 전화번호를 추가하세요 (예: +821012345678)
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mytime501
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
