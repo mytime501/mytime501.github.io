@@ -16,8 +16,8 @@ main:
   - name: Protflio
     url: contact/
     weight: 40
-  - name: Protflio
-    url: contact/
+  - name: field
+    url: field/tye1/
     weight: 50
   - name: Contacts
     url: contact/
