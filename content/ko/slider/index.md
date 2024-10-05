@@ -20,7 +20,7 @@ sections:
         align: center
         background:
           image:
-            filename: avatar.jpg
+            filename: calulator.jpg
             filters:
               brightness: 0.4
           position: center
@@ -31,7 +31,7 @@ sections:
         align: center
         background:
           image:
-            filename: avatar.jpg
+            filename: dog.jpg
             filters:
               brightness: 0.4
           position: center
@@ -42,7 +42,7 @@ sections:
         align: center
         background:
           image:
-            filename: avatar.jpg
+            filename: enuring.jpg
             filters:
               brightness: 0.4
           position: center
@@ -53,7 +53,7 @@ sections:
         align: center
         background:
           image:
-            filename: avatar.jpg
+            filename: keywords.jpg
             filters:
               brightness: 0.4
           position: center
