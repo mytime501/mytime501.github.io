@@ -39,7 +39,7 @@ sections:
           align: center
           background:
             image:
-              filename: avatar.jpg
+              filename: who.jpg
               filters:
                 brightness: 0.4
             position: center
