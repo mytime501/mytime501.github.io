@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Web
+    - name: 웹
       tag: Web
-    - name: CShape
+    - name: C샵
       tag: CShape
-    - name: Unity
+    - name: 유니티
       tag: Unity
 
 design:
