@@ -7,41 +7,41 @@ tags:
 url: /cshape/index
 ---
 
-프로젝트 개요
+Project Overview
 
-이 프로젝트는 C#으로 개발된 ADC(Analog-to-Digital Converter)와 CNC(Computer Numerical Control) 장비 간의 통신 프로그램입니다. 이 소프트웨어는 데이터를 실시간으로 전송하고 수신하여, CNC 기계의 정확한 제어와 ADC의 신호 모니터링을 가능하게 합니다.
-
-
-주요 기능
-
-- 실시간 데이터 전송: ADC에서 측정된 아날로그 신호를 디지털 데이터로 변환하여 CNC 장비로 전송합니다.
-- 양방향 통신: CNC 장비의 상태 정보를 실시간으로 수신하고, 이를 기반으로 추가적인 제어 명령을 수행할 수 있습니다.
-- 에러 처리: 통신 과정에서 발생할 수 있는 오류를 감지하고 처리하는 기능을 구현하여 안정성을 높였습니다.
+This project is a communication program between ADC (Analog-to-Digital Converter) and computer numerical control (CNC) equipment developed with C#. The software transmits and receives data in real time, enabling accurate control of CNC machines and signal monitoring of ADC.
 
 
-기술 스택
+Key Features
 
-- 프로그래밍 언어: C#
-- 통신 프로토콜: Focas1 프로토콜 사용
-- 개발 환경: Visual Studio
-
-
-프로젝트 진행 과정
-
-- 기획 및 설계: ADC와 CNC 간의 통신 요구 사항을 분석하고, 프로그램의 기본 아키텍처를 설계하였습니다.
-- 개발: C#으로 ADC 데이터 수집 및 CNC 제어 로직을 구현하였습니다. Focas1 라이브러리를 활용하여 통신 기능을 개발하였습니다.
-- 테스트 및 디버깅: 다양한 시나리오에서 프로그램을 테스트하여 데이터 전송의 정확성과 안정성을 확인하고, 발생하는 문제를 해결하였습니다.
+- Real-time data transfer: Converts analog signals measured in ADC into digital data and transmits them to CNC equipment.
+- Two-way communication: receive the status information of the CNC equipment in real time and perform additional control commands based on this.
+- Error handling: Increased stability by implementing the ability to detect and handle errors that may occur in the communication process.
 
 
-성과
+Tech Stack
 
-- 정확한 데이터 통신: ADC와 CNC 간의 데이터 전송 성공률을 95% 이상으로 유지하여, 기계 작동의 안정성을 높였습니다.
-- 사용자 인터페이스: 직관적인 사용자 인터페이스를 통해 사용자가 손쉽게 데이터를 모니터링하고 제어할 수 있도록 하였습니다.
-- 문서화: 프로젝트의 설계 및 구현 과정을 문서화하여 향후 유지보수와 개발에 유용한 자료를 남겼습니다.
+- Programming Language: C#
+- communication protocol: using the Focas1 protocol
+- Development Environment: Visual Studio
 
 
-향후 계획
+Project Progress
 
-- 기능 확장: 다양한 ADC와 CNC 모델에 대한 지원을 추가하여 호환성을 높일 계획입니다.
-- 성능 최적화: 데이터 전송 속도를 개선하고, 통신 지연을 최소화하는 방법을 연구할 것입니다.
-- 사용자 피드백 반영: 실제 사용자들의 피드백을 바탕으로 소프트웨어 개선 작업을 진행할 계획입니다.
+- Planning and Design: Analyzed communication requirements between ADC and CNC, and designed the basic architecture of the program.
+- Development: implemented ADC data collection and CNC control logic with C#. developed communication function by utilizing Focas1 library.
+- Testing and debugging: The program was tested in various scenarios to confirm the accuracy and reliability of the data transfer, and to resolve the issues that arise.
+
+
+Performance
+
+- Accurate data communication: maintained data transfer success rate between ADC and CNC above 95%, increasing the stability of machine operation.
+- User interface: Intuitive user interface allows users to easily monitor and control data.
+- Documentation: Documenting the design and implementation process of the project, leaving useful materials for future maintenance and development.
+
+
+Future plans
+
+- Feature Extension: We plan to increase compatibility by adding support for various ADC and CNC models.
+- Performance Optimization: We will study how to improve data transmission speed and minimize communication delays.
+- Reflecting user feedback: We plan to carry out software improvement work based on feedback from real users.
