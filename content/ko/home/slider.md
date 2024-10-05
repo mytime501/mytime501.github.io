@@ -14,6 +14,7 @@ content:
         url: /images/who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.5
+          opacity: 0.5
       position: center
       color: '#333'
 
@@ -25,6 +26,7 @@ content:
         url: /images/who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
+          opacity: 0.5
       position: right
       color: '#666'
 
@@ -36,6 +38,7 @@ content:
         url: images/who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
+          opacity: 0.5
       position: center
       color: '#555'
 
@@ -47,6 +50,7 @@ content:
         url: images/who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.5
+          opacity: 0.5
       position: center
       color: '#333'
 
@@ -58,6 +62,7 @@ content:
         url: images/who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
+          opacity: 0.5
       position: right
       color: '#666'
 
@@ -69,6 +74,7 @@ content:
         url: who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
+          opacity: 0.5
       position: center
       color: '#555'
 
