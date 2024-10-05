@@ -1,8 +1,7 @@
 ---
-title: Weather Measurement
-summary: Write about your project here...
+title: 날씨 측정
+summary: 지역별 기온과 날씨를 측정
 tags:
   - CShape
-date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/mytime501/weather_measurement
 ---

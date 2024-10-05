@@ -1,8 +1,7 @@
 ---
-title: Enuring
-summary: Write about your project here...
+title: 에누링
+summary: 중고거래를 위한 플랫폼
 tags:
   - CShape
-date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/mytime501/enuring
 ---

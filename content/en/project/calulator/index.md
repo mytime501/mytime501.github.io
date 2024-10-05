@@ -1,8 +1,7 @@
 ---
-title: Calulator
-summary: Write about your project here...
+title: 계산기
+summary: 각종 계산을 위한 시스템
 tags:
-  - Unity
-date: 2022-01-01
-external_link: http://github.com
+  - CShape
+external_link: https://github.com/mytime501/Calculator
 ---

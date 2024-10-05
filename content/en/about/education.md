@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Education
 subtitle:
@@ -22,25 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computer Engineering
-    company: Jeonbuk National University
-    company_url: ''
+  - title: 컴퓨터공학자
+    company: 전북대학교
+    company_url: 'https://www.jbnu.ac.kr/kor/'
     company_logo: org-x
-    location: California
-    date_start: '2021-03-01'
+    location: 전북특별자치도 전주시
+    date_start: '2021-03-02'
     date_end: ''
     description: |2-
-        * Department of Computer Engineering
+        * 컴퓨터공학부
         
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: 고등학생
+    company: 군산제일고등학교
+    company_url: 'https://school.jbedu.kr/ksjeil-h'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
-
+    location: 전북특별자치도 군산시
+    date_start: '2018-03-02'
+    date_end: '2021-01-31'
+    description: |2-
+        * CPU 회장
+        * 이과
 design:
   columns: '1'
 ---
