@@ -11,16 +11,16 @@ main:
     url: about/
     weight: 20
   - name: Web
-    url: Web/
+    url: Web/index/
     weight: 30
   - name: CShape
-    url: CShape/
+    url: CShape/index/
     weight: 40
   - name: Unity
-    url: Unity/
+    url: Unity/index/
     weight: 50
   - name: Improve
-    url: Improve/
+    url: Improve/index/
     weight: 60
   - name: Contacts
     url: contact/
