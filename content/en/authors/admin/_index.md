@@ -10,8 +10,8 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
-
+  icon: 😊
+  
 # Organizations/Affiliations
 #organizations:
 #- name: 腾讯
