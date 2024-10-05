@@ -22,6 +22,6 @@ main:
   - name: Improve
     url: improve/
     weight: 60
-  - name: Contacts
+  - name: Other
     url: contact/
     weight: 70
