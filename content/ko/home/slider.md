@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        filename: who.jpg
+        url: who.jpg
         filters:
           brightness: 0.5
       position: center
@@ -21,7 +21,7 @@ content:
     align: center
     background:
       image:
-        filename: /images/who.jpg/
+        url: /images/who.jpg/
         filters:
           brightness: 0.7
       position: right
@@ -31,7 +31,7 @@ content:
     align: center
     background:
       image:
-        filename: who.jpg/ # 파일명 수정
+        url: who.jpg/ # 파일명 수정
         filters:
           brightness: 0.7
       position: center
@@ -41,7 +41,7 @@ content:
     align: center
     background:
       image:
-        filename: who.jpg  # 상대 경로 추가
+        url: who.jpg  # 상대 경로 추가
         filters:
           brightness: 0.5
       position: center
@@ -51,7 +51,7 @@ content:
     align: center
     background:
       image:
-        filename: images/who.jpg/
+        url: images/who.jpg/
         filters:
           brightness: 0.7
       position: right
@@ -61,7 +61,7 @@ content:
     align: center
     background:
       image:
-        filename: /images/who.jpg
+        url: /images/who.jpg
         filters:
           brightness: 0.7
       position: center
