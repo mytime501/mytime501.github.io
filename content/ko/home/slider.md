@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-widget: slider
+
 weight: 20
 type: landing
 
