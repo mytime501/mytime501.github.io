@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        filename: images/who.jpg
+        filename: who.jpg
         filters:
           brightness: 0.5
       position: center
@@ -21,7 +21,7 @@ content:
     align: center
     background:
       image:
-        filename: images/keywords.jpg
+        filename: keywords.jpg
         filters:
           brightness: 0.7
       position: right
@@ -31,7 +31,7 @@ content:
     align: center
     background:
       image:
-        filename: images/calulator.jpg
+        filename: calulator.jpg
         filters:
           brightness: 0.7
       position: center
@@ -41,7 +41,7 @@ content:
     align: center
     background:
       image:
-        filename: images/weather.jpg
+        filename: weather.jpg
         filters:
           brightness: 0.5
       position: center
@@ -51,7 +51,7 @@ content:
     align: center
     background:
       image:
-        filename: images/enuring.jpg
+        filename: enuring.jpg
         filters:
           brightness: 0.7
       position: right
@@ -61,7 +61,7 @@ content:
     align: center
     background:
       image:
-        filename: images/dog.jpg
+        filename: dog.jpg
         filters:
           brightness: 0.7
       position: center
