@@ -1,24 +1,25 @@
 ---
-title: 군용관제체계 개선 프로젝트
-summary: 관제체계 개선
+title: Military Control System Improvement Project
+summary: Improvement of the control system
 date: 2023-04-16
 tags:
   - Too
 url: /ko/improve/index
 ---
 
-프로젝트 개요
-군용 관제 체계의 통신 효율성을 개선하는 프로젝트에 참여하였습니다. 주요 목표는 관제 쿼리를 최적화하여 불필요한 패킷 전송을 제거하고, 시스템 성능과 반응성을 향상시키는 것이었습니다.
+Project Overview
 
-주요 업무
+I was involved in a project to improve the communication efficiency of the military control system. The main objectives were to optimize control queries to eliminate unnecessary packet transmission and to improve system performance and responsiveness.
 
-- 관제 쿼리 최적화: 군용 관제 체계에서 사용되는 관제 쿼리를 재설계하고 최적화하여 네트워크 트래픽을 최소화하였습니다.
-- 패킷 필터링: 불필요한 패킷을 식별하고 제거하는 전략을 구현하여, 필수 데이터만이 전송되도록 하였습니다. 이를 통해 시스템 간의 통신 속도와 신뢰성을 높였습니다.
-- 성능 향상: 쿼리 효율성의 개선을 통해 지연 시간을 줄이고, 실시간 반응성을 강화하여 임무 수행에 필요한 즉각적인 통제가 가능하도록 하였습니다.
-- 협업: 네트워크 엔지니어와 긴밀히 협력하여 시스템 통합 및 최적의 성능을 보장하였습니다.
+A major task
 
-성과
+- Optimized control queries: Minimized network traffic by redesigning and optimizing control queries used in military control systems.
+- Packet filtering: Implemented a strategy of identifying and eliminating unnecessary packets, ensuring that only essential data is transmitted. This increased the speed and reliability of communication between systems.
+- Improve performance: Improve query efficiency to reduce latency and enhance real-time responsiveness to provide immediate control for mission performance.
+- Collaboration: Working closely with network engineers to ensure system integration and optimal performance.
 
-- 불필요한 데이터 전송을 45% 감소시켜 통신 대역폭을 크게 개선하였습니다.
-- 시스템의 실시간 반응성을 향상시켜 신속한 의사결정 및 통제가 가능하게 하였습니다.
-- 시스템 안정성과 확장성을 확보하여 향후 업그레이드 및 추가 기능 구현에 대비하였습니다.
+Performance
+
+- It has significantly improved communication bandwidth by reducing unnecessary data transmission by 45%.
+- It improves the system's real-time responsiveness, enabling quick decision-making and control.
+- We have secured system stability and scalability to prepare for future upgrades and additional functional implementations.

@@ -28,13 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 웹
+    - name: Web
       tag: Web
-    - name: C샵
+    - name: CShape
       tag: CShape
-    - name: 유니티
+    - name: Unity
       tag: Unity
-    - name: 기타
+    - name: Other
       tag: Too
 
 design:

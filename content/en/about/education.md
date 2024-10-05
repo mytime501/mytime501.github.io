@@ -22,26 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 컴퓨터공학자
-    company: 전북대학교
+  - title: A Computer Engineer
+    company: Jeonbuk National University
     company_url: 'https://www.jbnu.ac.kr/kor/'
     company_logo: org-x
-    location: 전북특별자치도 전주시
+    location: Jeonju City, North Jeolla Province
     date_start: '2021-03-02'
     date_end: ''
     description: |2-
-        * 컴퓨터공학부
+        * Department of Computer Engineering
         
-  - title: 고등학생
-    company: 군산제일고등학교
+  - title: High school student
+    company: Gunsan Jeil High School
     company_url: 'https://school.jbedu.kr/ksjeil-h'
     company_logo: org-x
-    location: 전북특별자치도 군산시
+    location: Gunsan-si, North Jeolla Province
     date_start: '2018-03-02'
     date_end: '2021-01-31'
     description: |2-
-        * CPU 회장
-        * 이과
+        * Chairman of the CPU
+        * Natural Sciences
 design:
   columns: '1'
 ---

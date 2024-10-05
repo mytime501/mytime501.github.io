@@ -1,30 +1,30 @@
 ---
-title: C# 계산기 프로젝트
+title: C# Calculator Project
 date: 2022-04-29
 ---
 <div class="text-justify">
-프로젝트 개요
+Project Overview
 </div>
 
-C#으로 개발된 계산기 애플리케이션은 사용자가 기본적인 사칙연산을 쉽게 수행할 수 있도록 돕는 소프트웨어입니다. WPF를 사용하여 시각적으로 매력적이고 사용하기 쉬운 사용자 인터페이스를 구현하였습니다.
+The calculator application developed with C# is software that helps users perform basic arithmetic operations easily. Using WPF, we implemented a user interface that is visually attractive and easy to use.
 
 
-주요 업무
+A major task
 
-- UI 설계: WPF를 사용하여 직관적이고 사용자 친화적인 인터페이스를 디자인하였습니다.
-- 기능 구현: 기본적인 사칙연산 기능을 구현하여 사용자가 입력한 수에 대해 실시간으로 계산 결과를 표시하였습니다.
-- 프로젝트 구조 관리: 프로젝트의 폴더 구조와 파일을 체계적으로 관리하여 유지 보수와 확장을 용이하게 하였습니다.
-
-
-사용 기술
-
-- 프로그래밍 언어: C#
-- 프레임워크: .NET Framework
-- UI 프레임워크: WPF
+- UI Design: We designed an intuitive and user-friendly interface using WPF.
+- Functional implementation: The basic four arithmetic operation function is implemented to display the calculation results in real time for the number entered by the user.
+- Project Structure Management: Systematically managed the folder structure and files of the project to facilitate maintenance and expansion.
 
 
-성과
+Technology of use
 
-- 사용자의 피드백을 기반으로 직관적인 사용자 인터페이스를 설계하여 사용자 경험을 향상시켰습니다.
-- 계산 기능의 정확성과 효율성을 검증하여 신뢰할 수 있는 애플리케이션을 제공하였습니다.
-- WPF의 다양한 기능을 활용하여 애플리케이션의 디자인을 현대적이고 세련되게 개선하였습니다.
+- Programming Language: C#
+- Framework: .NET Framework
+- UI Framework: WPF
+
+
+Performance
+
+- Based on user feedback, we designed an intuitive user interface to improve the user experience.
+- By verifying the accuracy and efficiency of the computational function, we provided a reliable application.
+- Utilizing the various functions of WPF, the design of the application has been improved in a modern and sophisticated manner.

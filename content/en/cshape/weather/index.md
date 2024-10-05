@@ -1,32 +1,32 @@
 ---
-title: 날씨 측정 프로젝트
+title: A weather measurement project
 date: 2022-06-04
 ---
 
 <div class="text-justify">
-프로젝트 개요
+Project Overview
 </div>
 
-C#으로 개발된 날씨 측정 애플리케이션은 외부 API를 통해 실시간 날씨 정보를 제공하는 소프트웨어입니다. 사용자는 손쉽게 원하는 지역의 기상 정보를 조회할 수 있으며, 다양한 기상 요소를 시각적으로 확인할 수 있습니다.
+The weather measurement application developed as C# is software that provides real-time weather information through an external API. Users can easily search for weather information in the desired area and visually check various weather factors.
 
 
-주요 업무
+A major task
 
-- UI 설계: WPF를 사용하여 사용자가 직관적으로 날씨 정보를 조회할 수 있는 사용자 인터페이스를 설계하였습니다.
-- API 통합: 외부 날씨 API를 사용하여 실시간 날씨 데이터를 가져오는 기능을 구현하였습니다.
-- 기상 정보 표시: 온도, 습도, 기압 등의 다양한 날씨 정보를 사용자에게 제공하여 유용성을 높였습니다.
-
-
-사용 기술
-
-- 프로그래밍 언어: C#
-- 프레임워크: .NET Framework
-- UI 프레임워크: WPF
-- API: 외부 날씨 API (예: OpenWeatherMap)
+- UI Design: We designed a user interface that allows users to intuitively inquire weather information using WPF.
+- API integration: Implemented a function to import real-time weather data using an external weather API.
+- Displaying weather information: Various weather information such as temperature, humidity, and air pressure has been provided to users to increase usefulness.
 
 
-성과
+Technology of use
 
-- 사용자의 피드백을 기반으로 직관적인 인터페이스를 설계하여 사용자 경험을 향상시켰습니다.
-- 외부 API와의 원활한 통신을 통해 정확한 날씨 정보를 실시간으로 제공하여 신뢰성을 높였습니다.
-- 다양한 기상 정보를 효과적으로 시각화하여 사용자가 쉽게 이해할 수 있도록 하였습니다.
+- Programming Language: C#
+- Framework: .NET Framework
+- UI Framework: WPF
+- API: External weather API (e.g., OpenWeatherMap)
+
+
+Performance
+
+- We designed an intuitive interface based on user feedback to improve the user experience.
+- Through smooth communication with external APIs, accurate weather information is provided in real time to increase reliability.
+- Various weather information is effectively visualized so that users can easily understand it.

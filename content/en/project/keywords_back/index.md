@@ -1,6 +1,6 @@
 ---
-title: 랜덤 생성 백엔드
-summary: 무작위 키워드 및 문장 생성
+title: Random Generated Backend
+summary: Generating random keywords and sentences
 tags:
   - Web
 external_link: https://github.com/mytime501/randombackend

@@ -7,7 +7,7 @@ type: landing
 content:
   slides:
   - title: WHO
-    content: '미라클모닝 프로젝트'
+    content: 'Miracle Morning Project'
     align: center
     background:
       image:
@@ -18,8 +18,8 @@ content:
       position: center
       color: '#333'
 
-  - title: 랜덤 생성
-    content: '무작위 키워드 및 문장 생성'
+  - title: Random Generation
+    content: 'Generating random keywords and sentences'
     align: center
     background:
       image:
@@ -30,8 +30,8 @@ content:
       position: right
       color: '#666'
 
-  - title: 계산기
-    content: '각종 계산을 위한 시스템'
+  - title: Calculator
+    content: 'A system for various calculations'
     align: center
     background:
       image:
@@ -42,8 +42,8 @@ content:
       position: center
       color: '#555'
 
-  - title: 날씨 측정
-    content: '지역별 기온과 날씨를 측정'
+  - title: Weather measurement
+    content: 'Measurement of temperature and weather by region'
     align: center
     background:
       image:
@@ -54,8 +54,8 @@ content:
       position: center
       color: '#333'
 
-  - title: 에누링
-    content: '중고거래를 위한 플랫폼'
+  - title: Enuring
+    content: 'A platform for secondhand transactions'
     align: center
     background:
       image:
@@ -67,7 +67,7 @@ content:
       color: '#666'
 
   - title: POPDOG
-    content: '밈을 이용한 게임'
+    content: 'A meme-based game'
     align: center
     background:
       image:

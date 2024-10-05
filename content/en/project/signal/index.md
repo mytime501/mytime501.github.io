@@ -1,5 +1,5 @@
 ---
-title: 통신 프로젝트
+title: A telecommunications project
 summary: ADC와 CNC 통신
 date: 2024-10-01
 tags:

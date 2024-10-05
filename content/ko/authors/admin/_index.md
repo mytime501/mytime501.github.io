@@ -32,7 +32,7 @@ social:
     link: https://www.google.com/
   - icon: phone
     icon_pack: fas
-    link: tel:+821041062512  # 전화번호를 추가하세요 (예: +821012345678)
+    link: tel:+821041062512 
   - icon: github
     icon_pack: fab
     link: https://github.com/mytime501
