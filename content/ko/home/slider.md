@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        filename: ../../../assets/media/who.jpg
+        filename: /who.jpg
         filters:
           brightness: 0.5
       position: center
@@ -21,7 +21,7 @@ content:
     align: center
     background:
       image:
-        filename: "../../../assets/media/keywords.jpg"
+        filename: "/keywords.jpg"
         filters:
           brightness: 0.7
       position: right
