@@ -30,7 +30,7 @@ experience:
     date_start: '2021-03-02'
     date_end: ''
     description: |2-
-        * 컴퓨터인공지능학부
+        * 컴퓨터공학부
         
   - title: 고등학생
     company: 군산제일고등학교
