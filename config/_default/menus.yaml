@@ -10,15 +10,18 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: Slider
-    url: slider/
+  - name: Web
+    url: Web/
     weight: 30
-  - name: Protflio
-    url: contact/
+  - name: CShape
+    url: CShape/
     weight: 40
-  - name: field
-    url: field/tye1/
+  - name: Unity
+    url: Unity/
     weight: 50
+  - name: Improve
+    url: Improve/
+    weight: 60
   - name: Contacts
     url: contact/
-    weight: 60
+    weight: 70
