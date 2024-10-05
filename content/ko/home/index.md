@@ -85,24 +85,4 @@ sections:
       loop: true
       interval: 3000
 
-  - block: portfolio
-    content:
-      page_type: project
-      filter_default: 0
-      filter_button:
-        - name: All
-          tag: '*'
-        - name: Web
-          tag: Web
-        - name: CShape
-          tag: CShape
-        - name: Unity
-          tag: Unity
-
-    design:
-      columns: '1'
-      view: masonry
-      flip_alt_rows: true
-      background: {}
-      spacing: {padding: [40, 0, 0, 0]}
 ---
