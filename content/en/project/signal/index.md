@@ -1,6 +1,6 @@
 ---
 title: A telecommunications project
-summary: ADC와 CNC 통신
+summary: ADC and CNC communications
 date: 2024-10-01
 tags:
   - CShape
