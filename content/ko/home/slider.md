@@ -31,7 +31,7 @@ content:
     align: center
     background:
       image:
-        filename: calculator.png # 파일명 수정
+        filename: "calculator.jpg" # 파일명 수정
         filters:
           brightness: 0.7
       position: center
@@ -61,7 +61,7 @@ content:
     align: center
     background:
       image:
-        filename: dog.png
+        filename: dog.jpg
         filters:
           brightness: 0.7
       position: center

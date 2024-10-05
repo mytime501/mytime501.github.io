@@ -20,7 +20,7 @@ sections:
         align: center
         background:
           image:
-            filename: calulator.jpg
+            filename: calulator.png
             filters:
               brightness: 0.4
           position: center
@@ -31,7 +31,7 @@ sections:
         align: center
         background:
           image:
-            filename: dog.jpg
+            filename: dog.png
             filters:
               brightness: 0.4
           position: center
