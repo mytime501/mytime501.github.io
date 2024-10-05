@@ -68,7 +68,7 @@ content:
       color: '#555'
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '350px'
+  slide_height: '500px'
   slide_width: '50%'
   is_fullscreen: false
   # Automatically transition through slides?
