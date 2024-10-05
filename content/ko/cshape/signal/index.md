@@ -3,7 +3,9 @@ title: ADC와 CNC 통신
 date: 2024-10-01
 ---
 
+<div class="text-justify">
 프로젝트 개요
+</div>
 
 이 프로젝트는 C#으로 개발된 ADC(Analog-to-Digital Converter)와 CNC(Computer Numerical Control) 장비 간의 통신 프로그램입니다. 이 소프트웨어는 데이터를 실시간으로 전송하고 수신하여, CNC 기계의 정확한 제어와 ADC의 신호 모니터링을 가능하게 합니다.
 
