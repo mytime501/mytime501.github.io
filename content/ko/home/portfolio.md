@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Web
       tag: Web
-    - name: C#
+    - name: CShape
       tag: CShape
     - name: Unity
       tag: Unity
