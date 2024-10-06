@@ -11,7 +11,7 @@ content:
     align: center
     background:
       image:
-        url: /images/who.jpg  # 상대 경로로 수정
+        url: who.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.5
           opacity: 0.5
@@ -23,7 +23,7 @@ content:
     align: center
     background:
       image:
-        url: /images/who.jpg  # 상대 경로로 수정
+        url: keywords.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
           opacity: 0.5
@@ -35,7 +35,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: calulator.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
           opacity: 0.5
@@ -47,7 +47,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: weather.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.5
           opacity: 0.5
@@ -59,7 +59,7 @@ content:
     align: center
     background:
       image:
-        url: images/who.jpg  # 상대 경로로 수정
+        url: enuring.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
           opacity: 0.5
@@ -71,7 +71,7 @@ content:
     align: center
     background:
       image:
-        url: who.jpg  # 상대 경로로 수정
+        url: dog.jpg  # 상대 경로로 수정
         filters:
           brightness: 0.7
           opacity: 0.5
