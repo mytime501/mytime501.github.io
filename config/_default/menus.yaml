@@ -16,12 +16,20 @@ main:
   - name: CShape
     url: cshape/
     weight: 40
-  - name: Unity
-    url: unity/
+
+  - name: Others
+    url: other
     weight: 50
-  - name: Improve
+  - parent: Others
+    name: Unity
+    url: unity/
+    weight: 51
+  - parent: Others
+    name: Improve
     url: improve/
-    weight: 60
+    weight: 52
+
+
   - name: Other
     url: contact/
     weight: 70
