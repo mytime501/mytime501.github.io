@@ -1,32 +1,84 @@
-# [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+승준의 포트폴리오 웹사이트
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+이 저장소는 Hugo를 사용하여 제작한 개인 포트폴리오 웹사이트의 코드를 포함하고 있습니다. Hugo는 빠르고 유연한 정적 사이트 생성기입니다.
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
+프로젝트 개요
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+프레임워크: Hugo
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+목적: 나의 기술, 프로젝트 및 경험을 소개하는 포트폴리오 사이트
 
-[Check out the latest demo](https://hugo-portfolio-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+주요 기능:
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+프로젝트, 경험, 연락처 정보를 별도의 섹션으로 구성
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+이미지 및 커스텀 CSS/JS 파일을 assets 및 static 폴더에 관리
 
-## We ask you, humbly, to support this open source movement
+layouts/partials/views에 있는 부분 레이아웃을 통해 모듈화된 테마 커스터마이징
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+content 폴더 내의 파일로 콘텐츠를 쉽게 편집 가능
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+
+파일 구조
+
+.github: GitHub 관련 설정 파일
+
+assets: 사이트 에셋 (이미지, 스타일시트, 스크립트 등)을 저장하는 폴더
+
+config/_default: 사이트 구조 및 설정을 위한 Hugo 설정 파일
+
+content: 웹사이트의 콘텐츠 (블로그 포스트, 프로젝트 설명 등)
+
+data: 동적 콘텐츠에 사용되는 추가 데이터 파일
+
+layouts/partials/views: 페이지 디자인을 커스터마이징하는 레이아웃 템플릿 및 부분 파일
+
+static/uploads: 정적 파일 (이미지 또는 다운로드 가능한 콘텐츠)
+
+.editorconfig: 다양한 에디터에서 일관된 코드 스타일을 유지하기 위한 설정
+
+.gitignore: Git에서 무시할 파일 목록
+
+README.md: 저장소에 대한 설명서 (이 파일입니다)
+
+
+설치 방법
+
+로컬에서 사이트를 실행하려면:
+
+1. 이 저장소를 클론합니다:
+
+git clone https://github.com/mytime501/portfolio.git
+
+
+2. 저장소 디렉토리로 이동합니다:
+
+cd portfolio
+
+
+3. Hugo가 설치되어 있지 않다면 설치합니다:
+
+brew install hugo
+
+
+4. 웹사이트를 로컬에서 실행합니다:
+
+hugo server
+
+
+5. 브라우저에서 http://localhost:1313/로 이동하여 사이트를 확인합니다.
+
+
+
+배포
+
+이 웹사이트는 GitHub Pages, Netlify 또는 기타 정적 호스팅 서비스에 배포할 수 있습니다. 배포 단계는 해당 플랫폼의 문서를 참조하세요.
+
+기여
+
+개선 사항 제안이나 버그 신고는 자유롭게 이슈를 열거나 Pull Request를 제출해 주세요. 기여는 언제나 환영입니다!
+
+라이선스
+
+이 프로젝트는 MIT 라이선스 하에 배포됩니다.
